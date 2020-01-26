@@ -4,6 +4,9 @@
   "main": "index.js",
   "author": "Derrick Camerino",
   "license": "MIT",
+  "engines": {
+    "node": "10.16.2"
+  },
   "scripts": {
     "serve": "live-server public/",
     "build:dev": "webpack",
